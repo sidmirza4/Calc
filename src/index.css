@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+html {
+	font-size: 62.5%;
+}
+
 :root {
 	--primary: #29a8ff;
 	--primary-2: #339dff;
